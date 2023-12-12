@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Dec  9 00:13:33 2023
-
-@author: gameb
-"""
 # import gymnasium as gym
 from gymnasium import Env, spaces
 import numpy as np

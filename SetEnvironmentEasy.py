@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 10 12:31:31 2023
-
-@author: gameb
-"""
-
 from gymnasium import Env, spaces
 import numpy as np
 import itertools

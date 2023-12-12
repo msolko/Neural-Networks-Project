@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 27 19:09:43 2023
-
-@author: gameb
-"""
-
 import numpy as np
 import itertools
 
