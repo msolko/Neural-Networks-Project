@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+path: C:/Users/gameb/OneDrive/Documents/Code_Fall_2023/Neural_Nets/Project/imagenn
+train: train/images
+val: testing/images 
+
+# classes
+names:
+    0: one
+    1: two
+    2: three
+    3: shaded
+    4: open
+    5: solid
+    6: oval
+    7: squiggle
+    8: diamond
+    

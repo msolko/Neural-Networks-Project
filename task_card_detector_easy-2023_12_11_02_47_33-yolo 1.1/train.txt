@@ -1,0 +1,17 @@
+data/obj_train_data/WIN_20231209_20_31_49_Pro.jpg
+data/obj_train_data/WIN_20231209_20_32_15_Pro.jpg
+data/obj_train_data/WIN_20231209_20_36_08_Pro.jpg
+data/obj_train_data/WIN_20231209_20_38_46_Pro.jpg
+data/obj_train_data/WIN_20231209_20_38_47_Pro.jpg
+data/obj_train_data/WIN_20231209_20_38_48_Pro.jpg
+data/obj_train_data/WIN_20231209_20_40_03_Pro.jpg
+data/obj_train_data/WIN_20231209_20_40_04_Pro.jpg
+data/obj_train_data/WIN_20231209_20_40_05_Pro.jpg
+data/obj_train_data/WIN_20231209_20_52_25_Pro (2).jpg
+data/obj_train_data/WIN_20231209_20_52_25_Pro.jpg
+data/obj_train_data/WIN_20231209_20_52_51_Pro.jpg
+data/obj_train_data/WIN_20231209_20_52_52_Pro.jpg
+data/obj_train_data/WIN_20231209_20_53_14_Pro.jpg
+data/obj_train_data/WIN_20231209_20_53_22_Pro.jpg
+data/obj_train_data/WIN_20231209_20_54_34_Pro.jpg
+data/obj_train_data/WIN_20231209_20_54_40_Pro.jpg
