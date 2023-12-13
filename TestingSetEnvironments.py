@@ -15,8 +15,8 @@ import os
 from SetEnvironmentEasy import SetGameEnvEasy, SetGameEnvEasyBox
 
 
-models_dir = "models/PPOEasy3"
-logdir = "logsEasy3"
+models_dir = "models/PPOEasyLong"
+logdir = "logsEasyLong"
 
 if not os.path.exists(models_dir):
     os.makedirs(models_dir)
@@ -36,7 +36,7 @@ env.reset()
 model = PPO("MlpPolicy", env, verbose=1, tensorboard_log=logdir)
 timesteps = 10000
 for i in range(1,50):
-    model.learn(total_timesteps=timesteps, reset_num_timesteps=False, tb_log_name="PPO3")
+    model.learn(total_timesteps=timesteps, reset_num_timesteps=False, tb_log_name="PPO")
     model.save(f"{models_dir}/{timesteps*i}")
 # model.learn(total_timesteps=100000)
 
